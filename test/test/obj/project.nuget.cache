@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aQWWniQgmZswPrzDwQqp/NLqKKQ1rij7TkAOpNNTPyIkW2HIONJUgUm5wOh2A9bBMdCULo15WkQ8AbeWLcEdKQ==",
+  "dgSpecHash": "UtW8ssv1B/OVQqP3N0Wl/R7EQIS+WiKYw9jVM82A9P2RLDNbLKYnpuvncjCSOAFAk4rFYZrP17A2Q/0vk0WMAw==",
   "success": true,
   "projectFilePath": "C:\\Users\\myatn\\source\\Repos\\IGME106-NapolianMyat\\test\\test\\test.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\myatn\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
-    "C:\\Users\\myatn\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

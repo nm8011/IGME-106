@@ -1,3 +1,10 @@
-﻿//hi
-using var game = new test.Game1();
-game.Run();
+﻿namespace test
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, Worldssadsd!");
+        }
+    }
+}
